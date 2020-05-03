@@ -1,1 +1,1 @@
-# docker_project
+# docker_project-MySQL and wordpress containers
